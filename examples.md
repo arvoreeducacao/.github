@@ -149,10 +149,10 @@ O Exemplo abaixo contém apenas os componentes de: Service, Deployment e HPA (Ho
 apiVersion: v1
 kind: Service
 metadata:
-  name: glucogear-api
+  name: project_name
 spec:
   selector:
-    app: glucogear-api
+    app: project_name
   type: NodePort
   ports:
     - protocol: TCP
