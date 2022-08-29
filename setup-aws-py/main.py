@@ -15,7 +15,7 @@ def main(aws_profile, root_path):
 
     fileAws = open(f"{root_path}.aws/credentials","w")
 
-    if os.environ["ORG_TF_AWS_KEY_ID"] != None :
+    if os.getenv("ORG_TF_AWS_KEY_ID", None) != None :
         ORG_TF_AWS_KEY_ID = os.environ["ORG_TF_AWS_KEY_ID"]
         ORG_TF_AWS_SECRET_KEY = os.environ["ORG_TF_AWS_SECRET_KEY"]
         
@@ -23,7 +23,7 @@ def main(aws_profile, root_path):
         fileAws.write(f"aws_access_key_id={ ORG_TF_AWS_KEY_ID }\n")
         fileAws.write(f"aws_secret_access_key={ ORG_TF_AWS_SECRET_KEY }\n\n")
 
-    if os.environ["HML_TF_AWS_KEY_ID"] != None :
+    if os.getenv("HML_TF_AWS_KEY_ID", None) != None :
 
         HML_TF_AWS_KEY_ID = os.environ["HML_TF_AWS_KEY_ID"]
         HML_TF_AWS_SECRET_KEY = os.environ["HML_TF_AWS_SECRET_KEY"]
@@ -32,7 +32,7 @@ def main(aws_profile, root_path):
         fileAws.write(f"aws_access_key_id={ HML_TF_AWS_KEY_ID }\n")
         fileAws.write(f"aws_secret_access_key={ HML_TF_AWS_SECRET_KEY }\n\n")
 
-    if os.environ["PRD_TF_AWS_KEY_ID"] != None :
+    if os.getenv("PRD_TF_AWS_KEY_ID", None) != None :
         PRD_TF_AWS_KEY_ID = os.environ["PRD_TF_AWS_KEY_ID"]
         PRD_TF_AWS_SECRET_KEY = os.environ["PRD_TF_AWS_SECRET_KEY"]    
 

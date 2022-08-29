@@ -33,7 +33,7 @@ jobs:
   deployment:
     # if: ${{ contains(github.ref, 'staging') }}
     name: Build Push and Deployment
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, x64]
     steps:
       - name: ❌ Cancel Previous Runs
         uses: styfle/cancel-workflow-action@0.4.1
