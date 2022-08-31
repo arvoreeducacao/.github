@@ -1,0 +1,29 @@
+name: 'Newrelic deploy alert'
+description: 'This action opens a deploy alert on Newrelic'
+inputs:
+  new_relic_api_key:
+    description: 'Newrelic API key'
+    required: true
+  new_relic_account_id:
+    description: 'Newrelic account ID'
+    required: true
+  new_relic_application_id:
+    description: 'Newrelic application ID'
+    required: true
+  revision:
+    description: 'Github revision hash'
+    required: true
+  user:
+    description: 'Github user who made the deployment'
+    required: true
+  changelog:
+    description: 'Changelog message'
+    required: true
+  description:
+    description: 'Deployment description'
+    required: true
+runs:
+  using: "composite"
+  steps:
+    - run: python3 ${{ github.action_path }}/main.py --new_relic_api_key ${{ inputs.new_relic_api_key }} --new_relic_account_id ${{ inputs.new_relic_account_id }} --new_relic_application_id ${{ inputs.new_relic_application_id }} --revision ${{ inputs.revision }} --user ${{inputs.user}} --changelog ${{inputs.changelog}} --description ${{inputs.description}}
+      shell: bash
