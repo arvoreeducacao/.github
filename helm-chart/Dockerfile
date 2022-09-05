@@ -1,5 +1,5 @@
 FROM dtzar/helm-kubectl:3.2.0
-FROM library/node:latest
+# FROM library/node:latest
 RUN apt-get update -y && \
     apt-get install -y \
         python3 \
