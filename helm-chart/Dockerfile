@@ -7,7 +7,7 @@ RUN apt-get update -y && \
         python3-setuptools \
         groff \
         less \
-    # && pip3 install --upgrade pip \
+    && pip3 install --upgrade pip \
     && apt-get clean
 RUN pip3 --no-cache-dir install --upgrade awscli
 
