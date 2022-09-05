@@ -204,3 +204,114 @@ spec:
   targetCPUUtilizationPercentage: 50
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+## Frontend Build React + S3 + CloudFront
+
+Pipeline modelo para bild
+
+```yaml
+name: BUILD AND PUBLISH FRONT 
+on:
+  push:
+    branches:
+      - feature/delivery-front-pipelines
+    #  tags:
+      # - staging-v*.*.*          # Push events to v1.0, v1.1.1, and v1.9.1 tags
+
+env:
+  RELEASE_REVISION: ${{ github.event.pull_request.head.sha }}
+  AWS_REGION: "us-east-1"
+  ENVIRONMENT: staging
+  API_GRAPHQL_URL: 
+
+jobs:
+  build:
+    # if: ${{ contains(github.ref, 'staging') }}
+    name: Build Front and Sync S3 and CloudFront
+    runs-on: self-hosted
+    strategy:
+      matrix:
+        node-version: [16.x]
+    steps:
+      - name: ❌ Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.4.1
+        with:
+          access_token: ${{ github.token }}
+
+      - name: 🏗 Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: 🔐 Setup AWS Profile
+        uses: arvoreeducacao/.github/setup-aws-py@main
+        with:
+          aws_profile: hml
+          root_path: ~/
+        env:
+          STG_AWS_ACCESS_KEY_ID: ${{ secrets.STG_AWS_ACCESS_KEY_ID }}
+          STG_AWS_SECRET_ACCESS_KEY: ${{ secrets.STG_AWS_SECRET_ACCESS_KEY }}
+          PRD_AWS_ACCESS_KEY_ID: ${{ secrets.PRD_AWS_ACCESS_KEY_ID }}
+          PRD_AWS_SECRET_ACCESS_KEY: ${{ secrets.PRD_AWS_SECRET_ACCESS_KEY }}
+
+
+      - name: 🔐 Set and export AWS credentials in Shell
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.STG_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.STG_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.STG_AWS_DEFAULT_REGION }}
+
+      - name: 📋 Set outputs
+        id: vars
+        run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
+      - name: Check outputs
+        run: echo ${{ steps.vars.outputs.sha_short }}
+
+      
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+        env:
+          CI: true
+
+      - run: npm install
+        env:
+          CI: true
+
+      - run: npm run build --if-present && npm run export
+        env:
+          CI: true
+
+      - uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: ${{ secrets.STG_AWS_S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.STG_AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.STG_AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-east-1'   # optional: defaults to us-east-1
+          SOURCE_DIR: './out'      # optional: defaults to entire repository
+
+      - name: Invalidate CloudFront
+        uses: chetan/invalidate-cloudfront-action@v2
+        env:
+          DISTRIBUTION: ${{ secrets.CLOUDFRONT_ID }}
+          PATHS: "/*"
+          AWS_REGION: ${{ secrets.STG_AWS_DEFAULT_REGION }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.STG_AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.STG_AWS_SECRET_ACCESS_KEY }}
+
+```
