@@ -1,6 +1,6 @@
 FROM dtzar/helm-kubectl:3.2.0
-FROM library/node:6.11.2
-RUN apt-get update && \
+FROM library/node:latest
+RUN apt-get update -y && \
     apt-get install -y \
         python3 \
         python3-pip \
