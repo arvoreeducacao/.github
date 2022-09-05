@@ -1,4 +1,3 @@
-FROM dtzar/helm-kubectl:3.2.0
 FROM ubuntu:latest
 RUN apt-get update -y && \
     apt-get install -y \
@@ -8,7 +7,8 @@ RUN apt-get update -y && \
         groff \
         less \
     && pip3 install --upgrade pip \
-    && apt-get clean
+    && apt-get clean && curl https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash 
+    
 RUN pip3 --no-cache-dir install --upgrade awscli
 
 CMD ["/bin/bash"]
