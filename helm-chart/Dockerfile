@@ -3,6 +3,7 @@ FROM alpine/k8s:1.18.2
 
 RUN apk add --update \
         coreutils \
+        curl \
         py-pip
 
 RUN pip install awscli
