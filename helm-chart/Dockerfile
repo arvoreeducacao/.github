@@ -1,25 +1,17 @@
-FROM ubuntu:latest
+# eks version
+FROM alpine/k8s:1.18.2
 
-RUN apt-get update -y && \
-    apt-get install -y \
-        curl \ 
-        python3 \
-        python3-pip \
-        python3-setuptools \
-        groff \
-        less \
-    && pip3 install --upgrade pip \
-    && apt-get clean
- 
-RUN curl https://baltocdn.com/helm/signing.asc | gpg --dearmor | tee /usr/share/keyrings/helm.gpg > /dev/null
-RUN apt-get install apt-transport-https --yes
-RUN echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/helm.gpg] https://baltocdn.com/helm/stable/debian/ all main" | tee /etc/apt/sources.list.d/helm-stable-debian.list
-RUN apt-get update -y && apt-get install helm -y 
+RUN apk add --update \
+        coreutils \
+        py-pip
 
-RUN pip3 --no-cache-dir install --upgrade awscli
+RUN pip install awscli
 
-CMD ["/bin/bash"]
-WORKDIR /app
 
-COPY run.sh .
+RUN curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 \
+    && chmod +x get_helm.sh && ./get_helm.sh
+
+COPY entrypoint.sh /entrypoint.sh
+ENTRYPOINT ["/entrypoint.sh"]
+
 

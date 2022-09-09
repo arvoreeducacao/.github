@@ -1,9 +1,9 @@
-name: 'kubectl & helm'
-author: 'Junv'
-description: 'A Github action for using kubectl and helm to deploy applications to Kubernetes cluster'
+name: kube-eks-cli
+description: "Provide the kubectl command to make actions on your eks cluster."
+author: 'Jonathan Henrique'
+branding:
+  icon: 'terminal'
+  color: 'blue'
 runs:
   using: 'docker'
   image: 'Dockerfile'
-branding:
-  icon: 'truck'
-  color: 'blue'
