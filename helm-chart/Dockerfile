@@ -18,8 +18,8 @@ RUN apt-get update -y && apt-get install helm -y
 
 RUN pip3 --no-cache-dir install --upgrade awscli
 
-# CMD ["/bin/bash"]
+CMD ["/bin/bash"]
 WORKDIR /app
 
-# COPY run.sh .
+COPY run.sh .
 
