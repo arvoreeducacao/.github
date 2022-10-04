@@ -28,7 +28,7 @@ jobs:
 
       - name: Get Elixir and Erlang versions from .tool-versions
         id: get-versions
-        uses: arvore/.github/elixir-erlang-version@elixir-erlang-version-0.1.0
+        uses: arvore/.github/elixir-erlang-version@main
 
       - name: Set up Elixir
         id: beam
