@@ -1,0 +1,23 @@
+name: 'Elixir and Erlang version'
+description: 'Gets Elixir and Erlang version from asdf .tool-versions file'
+
+outputs:
+  elixir-version:
+    description: "The Elixir version"
+    value: ${{ steps.get-elixir-version.outputs.elixir-version }}
+  erlang-version:
+    description: "The Erlang version"
+    value: ${{ steps.get-erlang-version.outputs.erlang-version }}
+
+runs:
+  using: "composite"
+  steps:
+    - name: Get Elixir Version
+      id: get-elixir-version
+      shell: bash
+      run: echo "::set-output name=elixir-version::$(cat .tool-versions | grep "elixir" | cut -d " " -f 2 | cut -d "-" -f 1)"
+    
+    - name: Get Erlang-version
+      id: get-erlang-version
+      run: echo "::set-output name=erlang-version::$(cat .tool-versions | grep "erlang" | cut -d " " -f 2)"
+      shell: bash
