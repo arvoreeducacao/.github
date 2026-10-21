@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img" aria-label="A row of Árvore leaves growing">
+<title>Árvore</title>
+<defs><clipPath id="frame"><rect width="1280" height="150" rx="22"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="1280" height="150" fill="#002733"/>
+<g transform="translate(5 132) scale(2.50)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.00s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;5.0 6 16;0 6 16" dur="4.2s" begin="1.00s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.60"/>
+  </g></g>
+</g></g>
+<g transform="translate(40 131.52) scale(2.97)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.06s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;6.0 6 16;0 6 16" dur="4.7s" begin="1.09s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.73"/>
+  </g></g>
+</g></g>
+<g transform="translate(76 131.8) scale(3.30)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.12s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;6.8 6 16;0 6 16" dur="5.1s" begin="1.18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.82"/>
+  </g></g>
+</g></g>
+<g transform="translate(113 132.4) scale(3.40)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.18s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;7.0 6 16;0 6 16" dur="5.2s" begin="1.27s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.85"/>
+  </g></g>
+</g></g>
+<g transform="translate(152 131.68) scale(3.23)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.24s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;6.6 6 16;0 6 16" dur="5.0s" begin="1.36s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.80"/>
+  </g></g>
+</g></g>
+<g transform="translate(191 132.44) scale(2.84)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.30s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;5.8 6 16;0 6 16" dur="4.6s" begin="1.45s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.70"/>
+  </g></g>
+</g></g>
+<g transform="translate(232 131.76) scale(2.36)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.36s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;4.7 6 16;0 6 16" dur="4.0s" begin="1.54s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.56"/>
+  </g></g>
+</g></g>
+<g transform="translate(272 131.56) scale(1.91)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.42s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.7 6 16;0 6 16" dur="3.5s" begin="1.63s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.44"/>
+  </g></g>
+</g></g>
+<g transform="translate(311 132.24) scale(1.64)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.48s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.1 6 16;0 6 16" dur="3.2s" begin="1.72s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.36"/>
+  </g></g>
+</g></g>
+<g transform="translate(349 132.07999999999998) scale(1.63)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.54s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.1 6 16;0 6 16" dur="3.2s" begin="1.81s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.36"/>
+  </g></g>
+</g></g>
+<g transform="translate(385 131.92000000000002) scale(1.87)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.60s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.6 6 16;0 6 16" dur="3.5s" begin="1.90s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.42"/>
+  </g></g>
+</g></g>
+<g transform="translate(420 131.64) scale(2.29)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.66s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;4.5 6 16;0 6 16" dur="4.0s" begin="1.99s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.54"/>
+  </g></g>
+</g></g>
+<g transform="translate(455 132.48) scale(2.78)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.72s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;5.6 6 16;0 6 16" dur="4.5s" begin="2.08s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.68"/>
+  </g></g>
+</g></g>
+<g transform="translate(491 132.04) scale(3.19)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.78s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;6.5 6 16;0 6 16" dur="5.0s" begin="2.17s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.79"/>
+  </g></g>
+</g></g>
+<g transform="translate(527 132.24) scale(3.39)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.84s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;7.0 6 16;0 6 16" dur="5.2s" begin="2.26s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.85"/>
+  </g></g>
+</g></g>
+<g transform="translate(565 132.28) scale(3.33)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.90s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;6.8 6 16;0 6 16" dur="5.1s" begin="2.35s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.83"/>
+  </g></g>
+</g></g>
+<g transform="translate(605 132.48) scale(3.03)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="0.96s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;6.2 6 16;0 6 16" dur="4.8s" begin="2.44s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.75"/>
+  </g></g>
+</g></g>
+<g transform="translate(645 132.12) scale(2.57)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.02s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;5.1 6 16;0 6 16" dur="4.3s" begin="2.53s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.62"/>
+  </g></g>
+</g></g>
+<g transform="translate(685 132.44) scale(2.09)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.08s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;4.1 6 16;0 6 16" dur="3.7s" begin="2.62s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.49"/>
+  </g></g>
+</g></g>
+<g transform="translate(725 131.68) scale(1.73)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.14s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.3 6 16;0 6 16" dur="3.3s" begin="2.71s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.39"/>
+  </g></g>
+</g></g>
+<g transform="translate(763 131.6) scale(1.60)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.20s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.0 6 16;0 6 16" dur="3.2s" begin="2.80s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.35"/>
+  </g></g>
+</g></g>
+<g transform="translate(800 131.68) scale(1.73)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.26s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.3 6 16;0 6 16" dur="3.3s" begin="2.89s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.39"/>
+  </g></g>
+</g></g>
+<g transform="translate(836 131.6) scale(2.10)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.32s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;4.1 6 16;0 6 16" dur="3.8s" begin="2.98s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.49"/>
+  </g></g>
+</g></g>
+<g transform="translate(871 132.28) scale(2.58)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.38s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;5.2 6 16;0 6 16" dur="4.3s" begin="3.07s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.62"/>
+  </g></g>
+</g></g>
+<g transform="translate(906 132.48) scale(3.03)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.44s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;6.2 6 16;0 6 16" dur="4.8s" begin="3.16s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.75"/>
+  </g></g>
+</g></g>
+<g transform="translate(942 132.28) scale(3.33)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.50s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;6.9 6 16;0 6 16" dur="5.1s" begin="3.25s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.83"/>
+  </g></g>
+</g></g>
+<g transform="translate(979 132.24) scale(3.39)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.56s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;7.0 6 16;0 6 16" dur="5.2s" begin="3.34s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.85"/>
+  </g></g>
+</g></g>
+<g transform="translate(1018 131.88) scale(3.18)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.62s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;6.5 6 16;0 6 16" dur="5.0s" begin="3.43s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.79"/>
+  </g></g>
+</g></g>
+<g transform="translate(1058 132.32) scale(2.77)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.68s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;5.6 6 16;0 6 16" dur="4.5s" begin="3.52s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.68"/>
+  </g></g>
+</g></g>
+<g transform="translate(1098 132.48) scale(2.28)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.74s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;4.5 6 16;0 6 16" dur="4.0s" begin="3.61s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.54"/>
+  </g></g>
+</g></g>
+<g transform="translate(1138 131.76) scale(1.86)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.80s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.6 6 16;0 6 16" dur="3.5s" begin="3.70s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.42"/>
+  </g></g>
+</g></g>
+<g transform="translate(1177 131.92000000000002) scale(1.62)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.86s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.1 6 16;0 6 16" dur="3.2s" begin="3.79s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.36"/>
+  </g></g>
+</g></g>
+<g transform="translate(1214 132.4) scale(1.65)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.92s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.1 6 16;0 6 16" dur="3.3s" begin="3.88s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#46D1C2" fill-rule="evenodd" opacity="0.36"/>
+  </g></g>
+</g></g>
+<g transform="translate(1251 131.72) scale(1.92)"><g transform="scale(1 0)">
+  <animateTransform attributeName="transform" type="scale" values="1 0;1 1.12;1 1" keyTimes="0;0.7;1" dur="0.9s" begin="1.98s" fill="freeze"/>
+  <g transform="translate(0 -16)"><g>
+    <animateTransform attributeName="transform" type="rotate" values="0 6 16;3.7 6 16;0 6 16" dur="3.6s" begin="3.97s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M 10.723,14.873 C 10.981,14.692 11.072,14.359 10.94,14.079 C 10.558,13.261 9.57,11.626 7.645,11.136 C 5.719,10.646 4.028,11.597 3.276,12.126 C 3.019,12.308 2.929,12.641 3.06,12.923 C 3.443,13.74 4.43,15.373 6.356,15.864 C 8.281,16.354 9.972,15.404 10.723,14.874 M 6.584,0.422 C 6.38,0.079 5.962,-0.08 5.577,0.039 C 4.338,0.419 1.439,1.477 0.379,4.161 C -0.683,6.844 0.755,9.481 1.409,10.579 C 1.611,10.921 2.03,11.079 2.416,10.961 C 3.655,10.583 6.561,9.435 7.622,6.753 C 8.684,4.068 7.238,1.521 6.584,0.423" fill="#309385" fill-rule="evenodd" opacity="0.44"/>
+  </g></g>
+</g></g>
+<rect y="132" width="1280" height="18" fill="#0A3A48"/>
+</g>
+</svg>
