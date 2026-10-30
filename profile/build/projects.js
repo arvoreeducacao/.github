@@ -17,7 +17,6 @@ export const groups = [
       { repo: 'rhm', blurb: 'Repo Hub Manifest. One file that turns many repositories into one workspace.' },
       { repo: 'seedling', blurb: 'Coding interviews for people who build with AI agents.' },
       { repo: 'bug-jar', blurb: 'One script tag that captures everything a bug report needs. Zero config.' },
-      { repo: 'arvore-tunnel', blurb: 'A self-hosted reverse tunnel. Like ngrok, but yours.' },
       { repo: 'xavia-ota', blurb: 'Self-hosted over-the-air updates for Expo and React Native apps.' },
     ],
   },
