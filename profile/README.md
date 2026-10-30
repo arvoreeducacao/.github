@@ -35,7 +35,6 @@
   <a href="https://github.com/arvoreeducacao/bug-jar"><img src="assets/projects/bug-jar.svg" width="49%" alt="bug-jar: One script tag that captures everything a bug report needs. Zero config."></a>
 </p>
 <p align="center">
-  <a href="https://github.com/arvoreeducacao/arvore-tunnel"><img src="assets/projects/arvore-tunnel.svg" width="49%" alt="arvore-tunnel: A self-hosted reverse tunnel. Like ngrok, but yours."></a>
   <a href="https://github.com/arvoreeducacao/xavia-ota"><img src="assets/projects/xavia-ota.svg" width="49%" alt="xavia-ota: Self-hosted over-the-air updates for Expo and React Native apps."></a>
 </p>
 
