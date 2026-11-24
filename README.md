@@ -10,6 +10,21 @@ Esse repositório tem como objetivo centralizar Actions do Github e disponibiliz
 Nunca versione chaves, senhas, logins, ips ou qualquer informação sensível a esse repositório. Pois o mesmo é publico. Todas as informações sensiveis são gravadas e configuradas via Secrets da AWS ou do Github. Solicite a um administrador caso precise incluir, alterar ou deletar alguma dessas informações sensíveis.
 
 
+## Gitleaks
+
+Workflow `.github/workflows/gitleaks.yml`, exigido em todo PR da organização por um ruleset. Ele baixa o gitleaks com versão fixa, confere o checksum e varre só os commits do PR (`base..head`), com o valor do segredo mascarado no log. Se achar um segredo, o check falha.
+
+Para liberar um falso positivo, adicione o `Fingerprint` que aparece no log em um arquivo `.gitleaksignore` na raiz do repositório do PR, uma linha por achado.
+
+Para usar em outro workflow:
+
+```yaml
+jobs:
+  gitleaks:
+    uses: arvoreeducacao/.github/.github/workflows/gitleaks.yml@main
+```
+
+
 ## Branch Filter
 
 Action Simples para definição de branchs relacionadas a ambientes:
